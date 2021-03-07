@@ -41,6 +41,7 @@ body {
     min-width: 250px;
     max-width: 500px;
     width: max-content;
+    background-color: white;
 }
 
 .autocomplete-container > div {
