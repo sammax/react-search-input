@@ -1,0 +1,1 @@
+preview: https://sammax.github.io/react-search-input/
