@@ -1,8 +1,6 @@
 import React, {HTMLAttributes, PropsWithChildren, ReactNode, useEffect, useRef, useState} from "react";
 
 
-import './Search.scss'
-
 interface SearchOptionBase {
     name: string
     multiple?: boolean
